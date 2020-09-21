@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FlickrApp</string>
+    <string name="search">search</string>
+    <string name="fetching_images">fetching images...</string>
+    <string name="error_fetching_images">error fetching images...</string>
+    <string name="placeholder_img">loading image</string>
+    <string name="banner">Banner image</string>
+    <string name="list_image">image</string>
+</resources>
